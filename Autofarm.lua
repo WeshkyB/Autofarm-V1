@@ -1,7 +1,3 @@
-Have Fun!
-
-
-Script:
 local players = game:GetService("Players")
 local plr = players.LocalPlayer
 local tween = game:GetService("TweenService")
