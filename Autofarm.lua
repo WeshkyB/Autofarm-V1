@@ -1,8 +1,3 @@
-Roblox Built A Boat For Treasure Script [only AutoFarm!]
-
-
-My YouTube Account:https://www.youtube.com/channel/UCxHcc6g2MLENJUFpdogNXtg
-
 Have Fun!
 
 
