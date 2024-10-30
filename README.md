@@ -1,5 +1,5 @@
 #  Autofarm Scripts:                                                                                                                        
- loadstring(game:HttpGet("??"))();
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/WeshkyB/Autofarm/refs/heads/main/Autofarm.txt"))();
                                                                                                                                                                                                                                                                         
                                                                                                                                                                                                                                                                        
  ### Discord: https://discord.gg/XhrmEKU9df < Please Join (:
